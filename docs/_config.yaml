@@ -2,9 +2,9 @@
 name: "Agostini"
 title: "Agostini Blog"
 description: "Sejam Bem Vindos ao nosso Blog!"
-logo: 'blog/assets/images/logo.png'
-favicon: 'blog/assets/images/logo.png'
-baseurl: blog//mediumish-theme-jekyll
+logo: 'docs/assets/images/logo.png'
+favicon: 'docs/assets/images/logo.png'
+baseurl: docs/mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'agostiniblog'
 mailchimp-list: ''
