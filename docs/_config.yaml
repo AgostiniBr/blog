@@ -4,7 +4,7 @@ title: "Agostini Blog"
 description: "Sejam Bem Vindos ao nosso Blog!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: docs
+baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'agostiniblog'
 mailchimp-list: ''
