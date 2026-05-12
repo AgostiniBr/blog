@@ -2,8 +2,8 @@
 name: "Leandro de Agostini"
 title: "Agostini Blog"
 description: "Sejam Bem Vindos ao nosso Blog!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/MyAvatar.png'
+favicon: 'assets/images/MyAvatar.png'
 baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'agostiniblog'
